@@ -1,6 +1,6 @@
 const { JsonWebTokenError } = require("jsonwebtoken");
 
-const jwt = require('jsonWebToken');
+const jwt = require('jsonwebtoken');
 const e = require("express");
 
 // ======================
